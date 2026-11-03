@@ -1,0 +1,32 @@
+{
+  "hits": [
+    {
+      "created_at_i": 1767195000,
+      "title": "AI 가상 모델 발표",
+      "url": "",
+      "points": 15,
+      "num_comments": 0
+    },
+    {
+      "created_at_i": 1767281400,
+      "title": "Machine Learning 가상 연구",
+      "url": "",
+      "points": 12,
+      "num_comments": 0
+    },
+    {
+      "created_at_i": 1767398400,
+      "title": "AI 가상 도구",
+      "url": "",
+      "points": 10,
+      "num_comments": 0
+    },
+    {
+      "created_at_i": 1767229200,
+      "title": "가상 스포츠 경기",
+      "url": "",
+      "points": 8,
+      "num_comments": 0
+    }
+  ]
+}
